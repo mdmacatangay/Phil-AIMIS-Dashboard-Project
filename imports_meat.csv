@@ -1,0 +1,898 @@
+MEAT,Description,Year,Net Wight,Month
+Beef,Beef Cuts,2019,9626164,January
+Beef,Choice Cuts,2019,486236,January
+Beef,Fats,2019,1527018,January
+Beef,Offals,2019,1457298,January
+Beef,Beef Cuts,2020,5336023,January
+Beef,Choice Cuts,2020,1204998,January
+Beef,Fats,2020,1591072,January
+Beef,Offals,2020,604546,January
+Beef,Beef Cuts,2021,5585691,January
+Beef,Choice Cuts,2021,486866,January
+Beef,Fats,2021,2117058,January
+Beef,Offals,2021,1321403,January
+Buffalo,Forequarter,2019,2697460,January
+Buffalo,Trimmings,2019,419920,January
+Buffalo,Rumpsteak,2019,0,January
+Buffalo,Knuckles,2019,0,January
+Buffalo,Trimmings,2020,196000,January
+Buffalo,Forequarters,2020,2379728,January
+Buffalo,Buffalo Meat,2020,0,January
+Buffalo,Buffalo Meat,2021,29000,January
+Buffalo,Forequarter,2021,3559660,January
+Buffalo,Trimmings,2021,545882,January
+Chicken,Chicken Cuts,2019,2026082,January
+Chicken,Chicken Leg Quarter,2019,11745445,January
+Chicken,Whole Chicken,2019,44395,January
+Chicken,Deboned,2019,15979903,January
+Chicken,Fats,2019,264600,January
+Chicken,Rind/Skin,2019,171950,January
+Chicken,Offals,2019,55500,January
+Chicken,Chicken Cuts,2021,1172269,January
+Chicken,Chicken Leg Quarter,2021,4205267,January
+Chicken,Deboned,2021,7434832,January
+Chicken,Fats,2021,0,January
+Chicken,Offals,2021,223668,January
+Chicken,Rind/Skin,2021,54028,January
+Chicken ,Chicken Cuts,2020,4470796,January
+Chicken ,Chicken Leg Quarters,2020,12146396,January
+Chicken ,Deboned,2020,24948143,January
+Chicken ,Fats,2020,427680,January
+Chicken ,Offals,2020,293162,January
+Chicken ,Rind/Skin,2020,183604,January
+Chicken ,Whole Chicken,2020,175968,January
+Duck,Duck Meat,2019,24335,January
+Duck,Offals,2019,0,January
+Duck,Whole Duck,2019,0,January
+Duck,Duck Meat,2021,24800,January
+Duck,Offals,2021,1700,January
+Lamb,Lamb Meat,2019,37318,January
+Lamb,Fats,2020,0,January
+Lamb,Lamb Meat,2020,55398,January
+Lamb,Offals,2020,0,January
+Lamb,Lamb Meat,2021,14500,January
+Lamb,Offals,2021,0,January
+Pork,Bellies,2019,4148210,January
+Pork,Pork Cuts,2019,4181412,January
+Pork,Deboned,2019,0,January
+Pork,Fats,2019,6055762,January
+Pork,Rind/Skin,2019,1899535,January
+Pork,Offals,2019,13917246,January
+Pork,Whole Pork,2019,26762,January
+Pork,Bellies,2020,1776763,January
+Pork,Pork Cuts,2020,2831721,January
+Pork,Deboned,2020,0,January
+Pork,Fats,2020,3608047,January
+Pork,Offals,2020,7312568,January
+Pork,Rind/Skin,2020,2294109,January
+Pork,Bellies,2021,2963874,January
+Pork,Deboned,2021,0,January
+Pork,Fats,2021,3376257,January
+Pork,Offals,2021,11015613,January
+Pork,Pork Cuts,2021,6218642,January
+Pork,Rind/Skin,2021,2373198,January
+Pork,Whole Pork,2021,0,January
+Turkey,Deboned,2020,78000,January
+Turkey,Offals,2020,0,January
+Turkey,Turkey Meat,2020,0,January
+Turkey,Whole Turkey,2020,0,January
+Turkey,Deboned,2021,26806,January
+Turkey,Offals,2021,0,January
+Turkey,Rind/Skin,2021,20713,January
+Turkey,Turkey Meat,2021,0,January
+Turkey,Whole Turkey,2021,2550,January
+Beef,Beef Cuts,2019,6129971,Febuary
+Beef,Choice Cuts,2019,877869,Febuary
+Beef,Fats,2019,1318136,Febuary
+Beef,Offals,2019,1334210,Febuary
+Beef,Beef Cuts,2020,8038937,Febuary
+Beef,Choice Cuts,2020,1797140,Febuary
+Beef,Fats,2020,1200048,Febuary
+Beef,Offals,2020,502287,Febuary
+Beef,Beef Cuts,2021,6391097,Febuary
+Beef,Choice Cuts,2021,454726,Febuary
+Beef,Fats,2021,1537607,Febuary
+Beef,Offals,2021,1674200,Febuary
+Buffalo,Forequarter,2019,2407485,Febuary
+Buffalo,Trimmings,2019,672882,Febuary
+Buffalo,Rumpsteak,2019,0,Febuary
+Buffalo,Knuckles,2019,0,Febuary
+Buffalo,Trimmings,2020,364000,Febuary
+Buffalo,Forequarters,2020,3357000,Febuary
+Buffalo,Buffalo Meat,2020,6000,Febuary
+Buffalo,Buffalo Meat,2021,,Febuary
+Buffalo,Forequarter,2021,1382236,Febuary
+Buffalo,Trimmings,2021,372800,Febuary
+Chicken,Chicken Cuts,2019,2571626,Febuary
+Chicken,Chicken Leg Quarter,2019,7663606,Febuary
+Chicken,Whole Chicken,2019,,Febuary
+Chicken,Deboned,2019,12318764,Febuary
+Chicken,Fats,2019,291620,Febuary
+Chicken,Rind/Skin,2019,79400,Febuary
+Chicken,Offals,2019,190667,Febuary
+Chicken,Chicken Cuts,2021,1594819,Febuary
+Chicken,Chicken Leg Quarter,2021,6220454,Febuary
+Chicken,Deboned,2021,9822059,Febuary
+Chicken,Fats,2021,55681,Febuary
+Chicken,Offals,2021,85974,Febuary
+Chicken,Rind/Skin,2021,275007,Febuary
+Chicken ,Chicken Cuts,2020,4482551,Febuary
+Chicken ,Chicken Leg Quarters,2020,13955262,Febuary
+Chicken ,Deboned,2020,19920938,Febuary
+Chicken ,Fats,2020,81030,Febuary
+Chicken ,Offals,2020,284000,Febuary
+Chicken ,Rind/Skin,2020,81500,Febuary
+Chicken ,Whole Chicken,2020,229438,Febuary
+Duck,Duck Meat,2019,7360,Febuary
+Duck,Offals,2019,85,Febuary
+Duck,Whole Duck,2019,0,Febuary
+Duck,Duck Meat,2021,0,Febuary
+Duck,Offals,2021,0,Febuary
+Lamb,Lamb Meat,2019,38742,Febuary
+Lamb,Fats,2020,0,Febuary
+Lamb,Lamb Meat,2020,188000,Febuary
+Lamb,Offals,2020,0,Febuary
+Lamb,Lamb Meat,2021,20060,Febuary
+Lamb,Offals,2021,0,Febuary
+Pork,Bellies,2019,2442230,Febuary
+Pork,Pork Cuts,2019,3074311,Febuary
+Pork,Deboned,2019,0,Febuary
+Pork,Fats,2019,4480852,Febuary
+Pork,Rind/Skin,2019,1637184,Febuary
+Pork,Offals,2019,13539841,Febuary
+Pork,Whole Pork,2019,0,Febuary
+Pork,Bellies,2020,1279999,Febuary
+Pork,Pork Cuts,2020,2048694,Febuary
+Pork,Deboned,2020,0,Febuary
+Pork,Fats,2020,2480416,Febuary
+Pork,Offals,2020,5645393,Febuary
+Pork,Rind/Skin,2020,1431600,Febuary
+Pork,Bellies,2021,2481161,Febuary
+Pork,Deboned,2021,0,Febuary
+Pork,Fats,2021,4342079,Febuary
+Pork,Offals,2021,11279609,Febuary
+Pork,Pork Cuts,2021,8028849,Febuary
+Pork,Rind/Skin,2021,2451054,Febuary
+Pork,Whole Pork,2021,22333,Febuary
+Turkey,Deboned,2020,112000,Febuary
+Turkey,Offals,2020,0,Febuary
+Turkey,Turkey Meat,2020,4000,Febuary
+Turkey,Whole Turkey,2020,45000,Febuary
+Turkey,Deboned,2021,52773,Febuary
+Turkey,Offals,2021,0,Febuary
+Turkey,Rind/Skin,2021,25745,Febuary
+Turkey,Turkey Meat,2021,0,Febuary
+Turkey,Whole Turkey,2021,0,Febuary
+Beef,Beef Cuts,2019,6415692,March
+Beef,Choice Cuts,2019,978784,March
+Beef,Fats,2019,2631089,March
+Beef,Offals,2019,1963708,March
+Beef,Beef Cuts,2020,7409824,March
+Beef,Choice Cuts,2020,2071819,March
+Beef,Fats,2020,2053000,March
+Beef,Offals,2020,886420,March
+Beef,Beef Cuts,2021,8763409,March
+Beef,Choice Cuts,2021,849593,March
+Beef,Fats,2021,1858591,March
+Beef,Offals,2021,2358709,March
+Buffalo,Forequarter,2019,2350368,March
+Buffalo,Trimmings,2019,643984,March
+Buffalo,Rumpsteak,2019,0,March
+Buffalo,Knuckles,2019,0,March
+Buffalo,Trimmings,2020,589000,March
+Buffalo,Forequarters,2020,2800000,March
+Buffalo,Buffalo Meat,2020,0,March
+Buffalo,Buffalo Meat,2021,32000,March
+Buffalo,Forequarter,2021,5139240,March
+Buffalo,Trimmings,2021,805008,March
+Chicken,Chicken Cuts,2019,1946804,March
+Chicken,Chicken Leg Quarter,2019,6235951,March
+Chicken,Whole Chicken,2019,24471,March
+Chicken,Deboned,2019,18620937,March
+Chicken,Fats,2019,439800,March
+Chicken,Rind/Skin,2019,163710,March
+Chicken,Offals,2019,297884,March
+Chicken,Chicken Cuts,2021,2276586,March
+Chicken,Chicken Leg Quarter,2021,10142873,March
+Chicken,Deboned,2021,19362577,March
+Chicken,Fats,2021,634793,March
+Chicken,Offals,2021,220787,March
+Chicken,Rind/Skin,2021,105273,March
+Chicken ,Chicken Cuts,2020,4945702,March
+Chicken ,Chicken Leg Quarters,2020,7944986,March
+Chicken ,Deboned,2020,18567032,March
+Chicken ,Fats,2020,275550,March
+Chicken ,Offals,2020,200000,March
+Chicken ,Rind/Skin,2020,82800,March
+Chicken ,Whole Chicken,2020,140000,March
+Duck,Duck Meat,2019,0,March
+Duck,Offals,2019,0,March
+Duck,Whole Duck,2019,0,March
+Duck,Duck Meat,2021,26391,March
+Duck,Offals,2021,0,March
+Lamb,Lamb Meat,2019,109496,March
+Lamb,Fats,2020,525,March
+Lamb,Lamb Meat,2020,62375,March
+Lamb,Offals,2020,1500,March
+Lamb,Lamb Meat,2021,102149,March
+Lamb,Offals,2021,71,March
+Pork,Bellies,2019,3293542,March
+Pork,Pork Cuts,2019,3843177,March
+Pork,Deboned,2019,0,March
+Pork,Fats,2019,5653064,March
+Pork,Rind/Skin,2019,3798532,March
+Pork,Offals,2019,16643317,March
+Pork,Whole Pork,2019,0,March
+Pork,Bellies,2020,1442287,March
+Pork,Pork Cuts,2020,1339577,March
+Pork,Deboned,2020,0,March
+Pork,Fats,2020,2483988,March
+Pork,Offals,2020,6552220,March
+Pork,Rind/Skin,2020,1515900,March
+Pork,Bellies,2021,4879602,March
+Pork,Deboned,2021,29527,March
+Pork,Fats,2021,5545588,March
+Pork,Offals,2021,19181970,March
+Pork,Pork Cuts,2021,13617422,March
+Pork,Rind/Skin,2021,3677560,March
+Pork,Whole Pork,2021,12265,March
+Turkey,Deboned,2020,111000,March
+Turkey,Offals,2020,0,March
+Turkey,Turkey Meat,2020,0,March
+Turkey,Whole Turkey,2020,31600,March
+Turkey,Deboned,2021,131894,March
+Turkey,Offals,2021,0,March
+Turkey,Rind/Skin,2021,103163,March
+Turkey,Turkey Meat,2021,4000,March
+Turkey,Whole Turkey,2021,0,March
+Beef,Beef Cuts,2019,5462598,April
+Beef,Choice Cuts,2019,1092956,April
+Beef,Fats,2019,1972444,April
+Beef,Offals,2019,1549505,April
+Beef,Beef Cuts,2020,8617087,April
+Beef,Choice Cuts,2020,2553349,April
+Beef,Fats,2020,2389956,April
+Beef,Offals,2020,1395762,April
+Beef,Beef Cuts,2021,11918046,April
+Beef,Choice Cuts,2021,1237647,April
+Beef,Fats,2021,1789013,April
+Beef,Offals,2021,2010682,April
+Buffalo,Forequarter,2019,3219376,April
+Buffalo,Trimmings,2019,729364,April
+Buffalo,Rumpsteak,2019,0,April
+Buffalo,Knuckles,2019,0,April
+Buffalo,Trimmings,2020,266000,April
+Buffalo,Forequarters,2020,1832000,April
+Buffalo,Buffalo Meat,2020,3000,April
+Buffalo,Buffalo Meat,2021,7680,April
+Buffalo,Forequarter,2021,2963820,April
+Buffalo,Trimmings,2021,569320,April
+Chicken,Chicken Cuts,2019,1258743,April
+Chicken,Chicken Leg Quarter,2019,2353156,April
+Chicken,Whole Chicken,2019,46827,April
+Chicken,Deboned,2019,13517252,April
+Chicken,Fats,2019,397600,April
+Chicken,Rind/Skin,2019,27000,April
+Chicken,Offals,2019,94153,April
+Chicken,Chicken Cuts,2021,4456407,April
+Chicken,Chicken Leg Quarter,2021,10929675,April
+Chicken,Deboned,2021,17604399,April
+Chicken,Fats,2021,548146,April
+Chicken,Offals,2021,173848,April
+Chicken,Rind/Skin,2021,413312,April
+Chicken ,Chicken Cuts,2020,4739659,April
+Chicken ,Chicken Leg Quarters,2020,4351968,April
+Chicken ,Deboned,2020,21444395,April
+Chicken ,Fats,2020,270000,April
+Chicken ,Offals,2020,138000,April
+Chicken ,Rind/Skin,2020,0,April
+Chicken ,Whole Chicken,2020,0,April
+Duck,Duck Meat,2019,2000,April
+Duck,Offals,2019,1541,April
+Duck,Whole Duck,2019,0,April
+Duck,Duck Meat,2021,0,April
+Duck,Offals,2021,0,April
+Lamb,Lamb Meat,2019,48024,April
+Lamb,Fats,2020,0,April
+Lamb,Lamb Meat,2020,153260,April
+Lamb,Offals,2020,0,April
+Lamb,Lamb Meat,2021,50518,April
+Lamb,Offals,2021,0,April
+Pork,Bellies,2019,3049767,April
+Pork,Pork Cuts,2019,2868456,April
+Pork,Deboned,2019,0,April
+Pork,Fats,2019,6245893,April
+Pork,Rind/Skin,2019,1916131,April
+Pork,Offals,2019,13467548,April
+Pork,Whole Pork,2019,0,April
+Pork,Bellies,2020,2413503,April
+Pork,Pork Cuts,2020,2403421,April
+Pork,Deboned,2020,0,April
+Pork,Fats,2020,3016176,April
+Pork,Offals,2020,8802959,April
+Pork,Rind/Skin,2020,1979650,April
+Pork,Bellies,2021,5242033,April
+Pork,Deboned,2021,63924,April
+Pork,Fats,2021,6656266,April
+Pork,Offals,2021,18632258,April
+Pork,Pork Cuts,2021,19071948,April
+Pork,Rind/Skin,2021,3301294,April
+Pork,Whole Pork,2021,0,April
+Turkey,Deboned,2020,56000,April
+Turkey,Offals,2020,2400,April
+Turkey,Turkey Meat,2020,36068,April
+Turkey,Whole Turkey,2020,30200,April
+Turkey,Deboned,2021,211167,April
+Turkey,Offals,2021,0,April
+Turkey,Rind/Skin,2021,51588,April
+Turkey,Turkey Meat,2021,0,April
+Turkey,Whole Turkey,2021,0,April
+Beef,Beef Cuts,2019,10214924,May
+Beef,Choice Cuts,2019,2007914,May
+Beef,Fats,2019,2064512,May
+Beef,Offals,2019,1634327,May
+Beef,Beef Cuts,2020,11472447,May
+Beef,Choice Cuts,2020,2816356,May
+Beef,Fats,2020,3247500,May
+Beef,Offals,2020,1777579,May
+Beef,Beef Cuts,2021,10020027,May
+Beef,Choice Cuts,2021,1124946,May
+Beef,Fats,2021,2540153,May
+Beef,Offals,2021,2638294,May
+Buffalo,Forequarter,2019,2690640,May
+Buffalo,Trimmings,2019,503952,May
+Buffalo,Rumpsteak,2019,0,May
+Buffalo,Knuckles,2019,0,May
+Buffalo,Trimmings,2020,112000,May
+Buffalo,Forequarters,2020,1008000,May
+Buffalo,Buffalo Meat,2020,0,May
+Buffalo,Buffalo Meat,2021,1181952,May
+Buffalo,Forequarter,2021,2262000,May
+Buffalo,Trimmings,2021,784000,May
+Chicken,Chicken Cuts,2019,1732869,May
+Chicken,Chicken Leg Quarter,2019,2952530,May
+Chicken,Whole Chicken,2019,,May
+Chicken,Deboned,2019,14232813,May
+Chicken,Fats,2019,319800,May
+Chicken,Rind/Skin,2019,391160,May
+Chicken,Offals,2019,159846,May
+Chicken,Chicken Cuts,2021,4537391,May
+Chicken,Chicken Leg Quarter,2021,15583599,May
+Chicken,Deboned,2021,17612330,May
+Chicken,Fats,2021,538440,May
+Chicken,Offals,2021,241000,May
+Chicken,Rind/Skin,2021,296896,May
+Chicken ,Chicken Cuts,2020,4245626,May
+Chicken ,Chicken Leg Quarters,2020,5047101,May
+Chicken ,Deboned,2020,23605396,May
+Chicken ,Fats,2020,459000,May
+Chicken ,Offals,2020,146000,May
+Chicken ,Rind/Skin,2020,50500,May
+Chicken ,Whole Chicken,2020,0,May
+Duck,Duck Meat,2019,22966,May
+Duck,Offals,2019,0,May
+Duck,Whole Duck,2019,0,May
+Duck,Duck Meat,2021,1000,May
+Duck,Offals,2021,0,May
+Lamb,Lamb Meat,2019,56031,May
+Lamb,Fats,2020,0,May
+Lamb,Lamb Meat,2020,382000,May
+Lamb,Offals,2020,0,May
+Lamb,Lamb Meat,2021,49366,May
+Lamb,Offals,2021,0,May
+Pork,Bellies,2019,3567693,May
+Pork,Pork Cuts,2019,4008610,May
+Pork,Deboned,2019,0,May
+Pork,Fats,2019,5422292,May
+Pork,Rind/Skin,2019,2316593,May
+Pork,Offals,2019,14826199,May
+Pork,Whole Pork,2019,500,May
+Pork,Bellies,2020,3322600,May
+Pork,Pork Cuts,2020,4104147,May
+Pork,Deboned,2020,0,May
+Pork,Fats,2020,4233434,May
+Pork,Offals,2020,10736348,May
+Pork,Rind/Skin,2020,2464040,May
+Pork,Bellies,2021,5042267,May
+Pork,Deboned,2021,40173,May
+Pork,Fats,2021,5193293,May
+Pork,Offals,2021,17068414,May
+Pork,Pork Cuts,2021,30823810,May
+Pork,Rind/Skin,2021,3230432,May
+Pork,Whole Pork,2021,20580,May
+Turkey,Deboned,2020,108000,May
+Turkey,Offals,2020,0,May
+Turkey,Turkey Meat,2020,0,May
+Turkey,Whole Turkey,2020,0,May
+Turkey,Deboned,2021,0,May
+Turkey,Offals,2021,3000,May
+Turkey,Rind/Skin,2021,25000,May
+Turkey,Turkey Meat,2021,51877,May
+Turkey,Whole Turkey,2021,0,May
+Beef,Beef Cuts,2019,5466876,June
+Beef,Choice Cuts,2019,666748,June
+Beef,Fats,2019,2152861,June
+Beef,Offals,2019,1051240,June
+Beef,Beef Cuts,2020,8777955,June
+Beef,Choice Cuts,2020,2493843,June
+Beef,Fats,2020,3497553,June
+Beef,Offals,2020,1061631,June
+Beef,Beef Cuts,2021,10778199,June
+Beef,Choice Cuts,2021,1274850,June
+Beef,Fats,2021,2358107,June
+Beef,Offals,2021,2221134,June
+Buffalo,Forequarter,2019,1623777,June
+Buffalo,Trimmings,2019,500398,June
+Buffalo,Rumpsteak,2019,0,June
+Buffalo,Knuckles,2019,0,June
+Buffalo,Trimmings,2020,98000,June
+Buffalo,Forequarters,2020,434000,June
+Buffalo,Buffalo Meat,2020,0,June
+Buffalo,Buffalo Meat,2021,1344500,June
+Buffalo,Forequarter,2021,5012000,June
+Buffalo,Trimmings,2021,1232000,June
+Chicken,Chicken Cuts,2019,1645179,June
+Chicken,Chicken Leg Quarter,2019,2614336,June
+Chicken,Whole Chicken,2019,,June
+Chicken,Deboned,2019,21268054,June
+Chicken,Fats,2019,398000,June
+Chicken,Rind/Skin,2019,573829,June
+Chicken,Offals,2019,135000,June
+Chicken,Chicken Cuts,2021,6556262,June
+Chicken,Chicken Leg Quarter,2021,16945324,June
+Chicken,Deboned,2021,23537253,June
+Chicken,Fats,2021,596460,June
+Chicken,Offals,2021,583949,June
+Chicken,Rind/Skin,2021,503087,June
+Chicken ,Chicken Cuts,2020,2540726,June
+Chicken ,Chicken Leg Quarters,2020,3194791,June
+Chicken ,Deboned,2020,19228895,June
+Chicken ,Fats,2020,436200,June
+Chicken ,Offals,2020,345000,June
+Chicken ,Rind/Skin,2020,210500,June
+Chicken ,Whole Chicken,2020,0,June
+Duck,Duck Meat,2019,0,June
+Duck,Offals,2019,0,June
+Duck,Whole Duck,2019,0,June
+Duck,Duck Meat,2021,2000,June
+Duck,Offals,2021,0,June
+Lamb,Lamb Meat,2019,26891,June
+Lamb,Fats,2020,0,June
+Lamb,Lamb Meat,2020,467200,June
+Lamb,Offals,2020,200,June
+Lamb,Lamb Meat,2021,58350,June
+Lamb,Offals,2021,0,June
+Pork,Bellies,2019,2459141,June
+Pork,Pork Cuts,2019,5171832,June
+Pork,Deboned,2019,0,June
+Pork,Fats,2019,4437774,June
+Pork,Rind/Skin,2019,2315619,June
+Pork,Offals,2019,11189401,June
+Pork,Whole Pork,2019,0,June
+Pork,Bellies,2020,2771780,June
+Pork,Pork Cuts,2020,3145334,June
+Pork,Deboned,2020,0,June
+Pork,Fats,2020,1624719,June
+Pork,Offals,2020,4700368,June
+Pork,Rind/Skin,2020,983500,June
+Pork,Bellies,2021,6195966,June
+Pork,Deboned,2021,37862,June
+Pork,Fats,2021,6317402,June
+Pork,Offals,2021,15951490,June
+Pork,Pork Cuts,2021,30383029,June
+Pork,Rind/Skin,2021,3125574,June
+Pork,Whole Pork,2021,16828,June
+Turkey,Deboned,2020,56000,June
+Turkey,Offals,2020,0,June
+Turkey,Turkey Meat,2020,0,June
+Turkey,Whole Turkey,2020,5000,June
+Turkey,Deboned,2021,78000,June
+Turkey,Offals,2021,0,June
+Turkey,Rind/Skin,2021,25000,June
+Turkey,Turkey Meat,2021,8300,June
+Turkey,Whole Turkey,2021,0,June
+Beef,Beef Cuts,2019,5143602,July
+Beef,Choice Cuts,2019,1102594,July
+Beef,Fats,2019,2130565,July
+Beef,Offals,2019,1492467,July
+Beef,Beef Cuts,2020,13191108,July
+Beef,Choice Cuts,2020,4878094,July
+Beef,Fats,2020,5104000,July
+Beef,Offals,2020,1815600,July
+Beef,Beef Cuts,2021,9245222,July
+Beef,Choice Cuts,2021,953591,July
+Beef,Fats,2021,2536258,July
+Beef,Offals,2021,2197610,July
+Buffalo,Forequarter,2019,1903848,July
+Buffalo,Trimmings,2019,560000,July
+Buffalo,Rumpsteak,2019,27976,July
+Buffalo,Knuckles,2019,0,July
+Buffalo,Trimmings,2020,196000,July
+Buffalo,Forequarters,2020,1233000,July
+Buffalo,Buffalo Meat,2020,28000,July
+Buffalo,Buffalo Meat,2021,280500,July
+Buffalo,Forequarter,2021,4144000,July
+Buffalo,Trimmings,2021,336000,July
+Chicken,Chicken Cuts,2019,1593415,July
+Chicken,Chicken Leg Quarter,2019,4397059,July
+Chicken,Whole Chicken,2019,21,July
+Chicken,Deboned,2019,19240066,July
+Chicken,Fats,2019,649504,July
+Chicken,Rind/Skin,2019,930400,July
+Chicken,Offals,2019,81000,July
+Chicken,Chicken Cuts,2021,4142921,July
+Chicken,Chicken Leg Quarter,2021,10673968,July
+Chicken,Deboned,2021,19106830,July
+Chicken,Fats,2021,642840,July
+Chicken,Offals,2021,327470,July
+Chicken,Rind/Skin,2021,406470,July
+Chicken ,Chicken Cuts,2020,2491643,July
+Chicken ,Chicken Leg Quarters,2020,1683995,July
+Chicken ,Deboned,2020,32367149,July
+Chicken ,Fats,2020,1151400,July
+Chicken ,Offals,2020,125500,July
+Chicken ,Rind/Skin,2020,99200,July
+Chicken ,Whole Chicken,2020,19000,July
+Duck,Duck Meat,2019,0,July
+Duck,Offals,2019,32,July
+Duck,Whole Duck,2019,25454,July
+Duck,Duck Meat,2021,0,July
+Duck,Offals,2021,0,July
+Lamb,Lamb Meat,2019,135617,July
+Lamb,Fats,2020,0,July
+Lamb,Lamb Meat,2020,249500,July
+Lamb,Offals,2020,0,July
+Lamb,Lamb Meat,2021,26131,July
+Lamb,Offals,2021,0,July
+Pork,Bellies,2019,3023343,July
+Pork,Pork Cuts,2019,5617312,July
+Pork,Deboned,2019,0,July
+Pork,Fats,2019,4968189,July
+Pork,Rind/Skin,2019,2675353,July
+Pork,Offals,2019,13400551,July
+Pork,Whole Pork,2019,0,July
+Pork,Bellies,2020,2718054,July
+Pork,Pork Cuts,2020,6853201,July
+Pork,Deboned,2020,0,July
+Pork,Fats,2020,2799649,July
+Pork,Offals,2020,4025448,July
+Pork,Rind/Skin,2020,1584000,July
+Pork,Bellies,2021,5029844,July
+Pork,Deboned,2021,0,July
+Pork,Fats,2021,5724460,July
+Pork,Offals,2021,15139770,July
+Pork,Pork Cuts,2021,26474143,July
+Pork,Rind/Skin,2021,2914098,July
+Pork,Whole Pork,2021,58072,July
+Turkey,Deboned,2020,28000,July
+Turkey,Offals,2020,0,July
+Turkey,Turkey Meat,2020,12000,July
+Turkey,Whole Turkey,2020,0,July
+Turkey,Deboned,2021,152000,July
+Turkey,Offals,2021,0,July
+Turkey,Rind/Skin,2021,50000,July
+Turkey,Turkey Meat,2021,5000,July
+Turkey,Whole Turkey,2021,0,July
+Beef,Beef Cuts,2019,5698891,August
+Beef,Choice Cuts,2019,1184240,August
+Beef,Fats,2019,2540114,August
+Beef,Offals,2019,1476111,August
+Beef,Beef Cuts,2020,10990027,August
+Beef,Choice Cuts,2020,3584401,August
+Beef,Fats,2020,3261512,August
+Beef,Offals,2020,1330451,August
+Beef,Beef Cuts,2021,8366507,August
+Beef,Choice Cuts,2021,1127732,August
+Beef,Fats,2021,2777905,August
+Beef,Offals,2021,1365369,August
+Buffalo,Forequarter,2019,1399904,August
+Buffalo,Trimmings,2019,335968,August
+Buffalo,Rumpsteak,2019,0,August
+Buffalo,Knuckles,2019,28000,August
+Buffalo,Trimmings,2020,364000,August
+Buffalo,Forequarters,2020,2884000,August
+Buffalo,Buffalo Meat,2020,0,August
+Buffalo,Buffalo Meat,2021,924000,August
+Buffalo,Forequarter,2021,2632000,August
+Buffalo,Trimmings,2021,644000,August
+Chicken,Chicken Cuts,2019,2185768,August
+Chicken,Chicken Leg Quarter,2019,4817399,August
+Chicken,Whole Chicken,2019,,August
+Chicken,Deboned,2019,20511888,August
+Chicken,Fats,2019,269160,August
+Chicken,Rind/Skin,2019,678450,August
+Chicken,Offals,2019,121436,August
+Chicken,Chicken Cuts,2021,3830382,August
+Chicken,Chicken Leg Quarter,2021,9628796,August
+Chicken,Deboned,2021,24931672,August
+Chicken,Fats,2021,836500,August
+Chicken,Offals,2021,297990,August
+Chicken,Rind/Skin,2021,511285,August
+Chicken ,Chicken Cuts,2020,1908605,August
+Chicken ,Chicken Leg Quarters,2020,968475,August
+Chicken ,Deboned,2020,21560205,August
+Chicken ,Fats,2020,777600,August
+Chicken ,Offals,2020,410000,August
+Chicken ,Rind/Skin,2020,84000,August
+Chicken ,Whole Chicken,2020,0,August
+Duck,Duck Meat,2019,0,August
+Duck,Offals,2019,0,August
+Duck,Whole Duck,2019,0,August
+Duck,Duck Meat,2021,0,August
+Duck,Offals,2021,0,August
+Lamb,Lamb Meat,2019,89707,August
+Lamb,Fats,2020,0,August
+Lamb,Lamb Meat,2020,21300,August
+Lamb,Offals,2020,0,August
+Lamb,Lamb Meat,2021,0,August
+Lamb,Offals,2021,0,August
+Pork,Bellies,2019,2325292,August
+Pork,Pork Cuts,2019,4931318,August
+Pork,Deboned,2019,1000,August
+Pork,Fats,2019,3954646,August
+Pork,Rind/Skin,2019,1799153,August
+Pork,Offals,2019,10888869,August
+Pork,Whole Pork,2019,0,August
+Pork,Bellies,2020,2549850,August
+Pork,Pork Cuts,2020,4564490,August
+Pork,Deboned,2020,0,August
+Pork,Fats,2020,3854000,August
+Pork,Offals,2020,5960669,August
+Pork,Rind/Skin,2020,1476650,August
+Pork,Bellies,2021,6031475,August
+Pork,Deboned,2021,135329,August
+Pork,Fats,2021,6561038,August
+Pork,Offals,2021,17306494,August
+Pork,Pork Cuts,2021,23214763,August
+Pork,Rind/Skin,2021,3037073,August
+Pork,Whole Pork,2021,18859,August
+Turkey,Deboned,2020,0,August
+Turkey,Offals,2020,0,August
+Turkey,Turkey Meat,2020,34000,August
+Turkey,Whole Turkey,2020,0,August
+Turkey,Deboned,2021,125000,August
+Turkey,Offals,2021,0,August
+Turkey,Rind/Skin,2021,100000,August
+Turkey,Turkey Meat,2021,19072,August
+Turkey,Whole Turkey,2021,0,August
+Beef,Beef Cuts,2019,7456049,September
+Beef,Choice Cuts,2019,1178221,September
+Beef,Fats,2019,1607778,September
+Beef,Offals,2019,867342,September
+Beef,Beef Cuts,2020,11762559,September
+Beef,Choice Cuts,2020,3147876,September
+Beef,Fats,2020,3512060,September
+Beef,Offals,2020,1625299,September
+Beef,Beef Cuts,2021,8445210,September
+Beef,Choice Cuts,2021,1225447,September
+Beef,Fats,2021,2319717,September
+Beef,Offals,2021,1033814,September
+Buffalo,Forequarter,2019,1262744,September
+Buffalo,Trimmings,2019,475968,September
+Buffalo,Rumpsteak,2019,27976,September
+Buffalo,Knuckles,2019,0,September
+Buffalo,Trimmings,2020,868000,September
+Buffalo,Forequarters,2020,4709500,September
+Buffalo,Buffalo Meat,2020,3000,September
+Buffalo,Buffalo Meat,2021,476000,September
+Buffalo,Forequarter,2021,1810004,September
+Buffalo,Trimmings,2021,205996,September
+Chicken,Chicken Cuts,2019,2702195,September
+Chicken,Chicken Leg Quarter,2019,6373725,September
+Chicken,Whole Chicken,2019,,September
+Chicken,Deboned,2019,18804404,September
+Chicken,Fats,2019,529600,September
+Chicken,Rind/Skin,2019,354692,September
+Chicken,Offals,2019,131010,September
+Chicken,Chicken Cuts,2021,3048785,September
+Chicken,Chicken Leg Quarter,2021,9990023,September
+Chicken,Deboned,2021,26694778,September
+Chicken,Fats,2021,788700,September
+Chicken,Offals,2021,487790,September
+Chicken,Rind/Skin,2021,327330,September
+Chicken ,Chicken Cuts,2020,1959510,September
+Chicken ,Chicken Leg Quarters,2020,5210431,September
+Chicken ,Deboned,2020,26566491,September
+Chicken ,Fats,2020,642600,September
+Chicken ,Offals,2020,270000,September
+Chicken ,Rind/Skin,2020,95000,September
+Chicken ,Whole Chicken,2020,60000,September
+Duck,Duck Meat,2019,2912,September
+Duck,Offals,2019,2500,September
+Duck,Whole Duck,2019,0,September
+Duck,Duck Meat,2021,0,September
+Duck,Offals,2021,0,September
+Lamb,Lamb Meat,2019,121571,September
+Lamb,Fats,2020,0,September
+Lamb,Lamb Meat,2020,60000,September
+Lamb,Offals,2020,1200,September
+Lamb,Lamb Meat,2021,37618,September
+Lamb,Offals,2021,0,September
+Pork,Bellies,2019,3372863,September
+Pork,Pork Cuts,2019,5939463,September
+Pork,Deboned,2019,0,September
+Pork,Fats,2019,5164702,September
+Pork,Rind/Skin,2019,2400988,September
+Pork,Offals,2019,12119188,September
+Pork,Whole Pork,2019,0,September
+Pork,Bellies,2020,4325131,September
+Pork,Pork Cuts,2020,6988100,September
+Pork,Deboned,2020,25000,September
+Pork,Fats,2020,6177180,September
+Pork,Offals,2020,10865374,September
+Pork,Rind/Skin,2020,2628650,September
+Pork,Bellies,2021,5428484,September
+Pork,Deboned,2021,77051,September
+Pork,Fats,2021,6150615,September
+Pork,Offals,2021,16045441,September
+Pork,Pork Cuts,2021,19506573,September
+Pork,Rind/Skin,2021,2494024,September
+Pork,Whole Pork,2021,54467,September
+Turkey,Deboned,2020,28000,September
+Turkey,Offals,2020,0,September
+Turkey,Turkey Meat,2020,30000,September
+Turkey,Whole Turkey,2020,0,September
+Turkey,Deboned,2021,48000,September
+Turkey,Offals,2021,0,September
+Turkey,Rind/Skin,2021,0,September
+Turkey,Turkey Meat,2021,17368,September
+Turkey,Whole Turkey,2021,4945,September
+Beef,Beef Cuts,2019,9160050,October
+Beef,Choice Cuts,2019,1828516,October
+Beef,Fats,2019,1936599,October
+Beef,Offals,2019,794482,October
+Beef,Beef Cuts,2020,14930555,October
+Beef,Choice Cuts,2020,4399153,October
+Beef,Fats,2020,3334800,October
+Beef,Offals,2020,2049680,October
+Buffalo,Forequarter,2019,1508984,October
+Buffalo,Trimmings,2019,447968,October
+Buffalo,Rumpsteak,2019,2976,October
+Buffalo,Knuckles,2019,0,October
+Buffalo,Trimmings,2020,1204500,October
+Buffalo,Forequarters,2020,6158500,October
+Buffalo,Buffalo Meat,2020,37000,October
+Chicken,Chicken Cuts,2019,3908360,October
+Chicken,Chicken Leg Quarter,2019,7419455,October
+Chicken,Whole Chicken,2019,24947,October
+Chicken,Deboned,2019,25889344,October
+Chicken,Fats,2019,556832,October
+Chicken,Rind/Skin,2019,41691,October
+Chicken,Offals,2019,389690,October
+Chicken ,Chicken Cuts,2020,3118106,October
+Chicken ,Chicken Leg Quarters,2020,12516015,October
+Chicken ,Deboned,2020,27487460,October
+Chicken ,Fats,2020,887400,October
+Chicken ,Offals,2020,702375,October
+Chicken ,Rind/Skin,2020,109000,October
+Chicken ,Whole Chicken,2020,0,October
+Duck,Duck Meat,2019,0,October
+Duck,Offals,2019,0,October
+Duck,Whole Duck,2019,0,October
+Lamb,Lamb Meat,2019,109641,October
+Lamb,Fats,2020,0,October
+Lamb,Lamb Meat,2020,30000,October
+Lamb,Offals,2020,0,October
+Pork,Bellies,2019,3771290,October
+Pork,Pork Cuts,2019,8309943,October
+Pork,Deboned,2019,0,October
+Pork,Fats,2019,5832613,October
+Pork,Rind/Skin,2019,2656607,October
+Pork,Offals,2019,12774706,October
+Pork,Whole Pork,2019,0,October
+Pork,Bellies,2020,6169209,October
+Pork,Pork Cuts,2020,9773886,October
+Pork,Deboned,2020,0,October
+Pork,Fats,2020,6353000,October
+Pork,Offals,2020,12455614,October
+Pork,Rind/Skin,2020,2643000,October
+Turkey,Deboned,2020,28000,October
+Turkey,Offals,2020,0,October
+Turkey,Turkey Meat,2020,54000,October
+Turkey,Whole Turkey,2020,48700,October
+Beef,Beef Cuts,2019,7532339,November
+Beef,Choice Cuts,2019,1131578,November
+Beef,Fats,2019,2424584,November
+Beef,Offals,2019,1051441,November
+Beef,Beef Cuts,2020,6525841,November
+Beef,Choice Cuts,2020,1109161,November
+Beef,Fats,2020,3338500,November
+Beef,Offals,2020,1271775,November
+Buffalo,Forequarter,2019,1876800,November
+Buffalo,Trimmings,2019,559936,November
+Buffalo,Rumpsteak,2019,0,November
+Buffalo,Knuckles,2019,0,November
+Buffalo,Trimmings,2020,283000,November
+Buffalo,Forequarters,2020,1562000,November
+Buffalo,Buffalo Meat,2020,90000,November
+Chicken,Chicken Cuts,2019,3694167,November
+Chicken,Chicken Leg Quarter,2019,11548571,November
+Chicken,Whole Chicken,2019,,November
+Chicken,Deboned,2019,20380554,November
+Chicken,Fats,2019,372800,November
+Chicken,Rind/Skin,2019,259431,November
+Chicken,Offals,2019,134010,November
+Chicken ,Chicken Cuts,2020,1612543,November
+Chicken ,Chicken Leg Quarters,2020,6547265,November
+Chicken ,Deboned,2020,17994873,November
+Chicken ,Fats,2020,0,November
+Chicken ,Offals,2020,296000,November
+Chicken ,Rind/Skin,2020,28000,November
+Chicken ,Whole Chicken,2020,0,November
+Duck,Duck Meat,2019,405,November
+Duck,Offals,2019,0,November
+Duck,Whole Duck,2019,0,November
+Lamb,Lamb Meat,2019,48991,November
+Lamb,Fats,2020,0,November
+Lamb,Lamb Meat,2020,199000,November
+Lamb,Offals,2020,0,November
+Pork,Bellies,2019,3354043,November
+Pork,Pork Cuts,2019,7104111,November
+Pork,Deboned,2019,0,November
+Pork,Fats,2019,5421699,November
+Pork,Rind/Skin,2019,3064663,November
+Pork,Offals,2019,10553275,November
+Pork,Whole Pork,2019,0,November
+Pork,Bellies,2020,4389930,November
+Pork,Pork Cuts,2020,6043219,November
+Pork,Deboned,2020,0,November
+Pork,Fats,2020,4261669,November
+Pork,Offals,2020,8749513,November
+Pork,Rind/Skin,2020,2160500,November
+Turkey,Deboned,2020,28000,November
+Turkey,Offals,2020,0,November
+Turkey,Turkey Meat,2020,14000,November
+Turkey,Whole Turkey,2020,0,November
+Beef,Beef Cuts,2019,5665881,December
+Beef,Choice Cuts,2019,746048,December
+Beef,Fats,2019,1405617,December
+Beef,Offals,2019,777144,December
+Beef,Beef Cuts,2020,8910301,December
+Beef,Choice Cuts,2020,1808493,December
+Beef,Fats,2020,2343000,December
+Beef,Offals,2020,1365020,December
+Buffalo,Forequarter,2019,2099872,December
+Buffalo,Trimmings,2019,532000,December
+Buffalo,Rumpsteak,2019,0,December
+Buffalo,Knuckles,2019,0,December
+Buffalo,Trimmings,2020,253000,December
+Buffalo,Forequarters,2020,1260000,December
+Buffalo,Buffalo Meat,2020,28000,December
+Chicken,Chicken Cuts,2019,4479618,December
+Chicken,Chicken Leg Quarter,2019,12429764,December
+Chicken,Whole Chicken,2019,104955,December
+Chicken,Deboned,2019,18297887,December
+Chicken,Fats,2019,132000,December
+Chicken,Rind/Skin,2019,358990,December
+Chicken,Offals,2019,286791,December
+Chicken ,Chicken Cuts,2020,1924315,December
+Chicken ,Chicken Leg Quarters,2020,6327686,December
+Chicken ,Deboned,2020,20123932,December
+Chicken ,Fats,2020,0,December
+Chicken ,Offals,2020,259000,December
+Chicken ,Rind/Skin,2020,25000,December
+Chicken ,Whole Chicken,2020,0,December
+Duck,Duck Meat,2019,25175,December
+Duck,Offals,2019,0,December
+Duck,Whole Duck,2019,0,December
+Lamb,Lamb Meat,2019,104251,December
+Lamb,Fats,2020,0,December
+Lamb,Lamb Meat,2020,40600,December
+Lamb,Offals,2020,0,December
+Pork,Bellies,2019,2944768,December
+Pork,Pork Cuts,2019,3623260,December
+Pork,Deboned,2019,0,December
+Pork,Fats,2019,3848628,December
+Pork,Rind/Skin,2019,1308748,December
+Pork,Offals,2019,6737880,December
+Pork,Whole Pork,2019,0,December
+Pork,Bellies,2020,2392315,December
+Pork,Pork Cuts,2020,6795490,December
+Pork,Deboned,2020,25000,December
+Pork,Fats,2020,3457400,December
+Pork,Offals,2020,9972006,December
+Pork,Rind/Skin,2020,2235000,December
+Turkey,Deboned,2020,0,December
+Turkey,Offals,2020,0,December
+Turkey,Turkey Meat,2020,0,December
+Turkey,Whole Turkey,2020,0,December
