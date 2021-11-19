@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>PHILAIMIS - Dashboard</title>
+  <link rel='stylesheet' href='/dashboard/PHILAIMIS/css/bootstrap.css'>
+<link rel='stylesheet' href='https://unicons.iconscout.com/release/v3.0.6/css/line.css'><link rel="stylesheet" href="/dashboard/PHILAIMIS/css/style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<aside class="sidebar position-fixed top-0 left-0 overflow-auto h-100 float-left" id="show-side-navigation1">
+  <i class="uil-bars close-aside d-md-none d-lg-none" data-close="show-side-navigation1"></i>
+  <div class="sidebar-header d-flex justify-content-center align-items-center px-3 py-4">
+    <img
+         class="rounded img-fluid" 
+         style="width: 60px; height: 60px;background: #fff;"
+         src="https://devsysadd.da.gov.ph/philaimis//uploads/default/PhilAIMIS.png"
+         alt="">
+    <div class="ms-2">
+      <h5 class="fs-6 mb-0">
+        <a class="text-decoration-none" href="index.html">PHILAIMIS</a>
+      </h5>
+    </div>
+  </div>
+
+  <ul class="categories list-unstyled">
+    <li class="">
+      <i class="uil-estate fa-fw"></i><a href="index.html" id="link-homepage"> Dashboard</a>
+      <ul class="sidebar-dropdown list-unstyled">
+      </ul>
+    </li>
+    <li class="">
+      <i class="uil-shopping-cart-alt"></i><a href="price.html" id="link-price"> Price</a>
+    </li>
+    <li class="">
+      <i class="uil-folder"></i><a href="inventory.html" id="link-inventory"> Inventory</a>
+    </li>
+    <li class="">
+      <i class="uil-panel-add"></i><a href="production.html" id="link-production"> Production</a>
+    </li>
+    <li class="">
+      <i class="uil-bag"></i><a href="importation.html" id="link-importation"> Importation</a>
+    </li>
+</aside>
+
+<section id="wrapper">
+  <nav class="navbar navbar-expand-md">
+    <div class="container-fluid mx-2">
+      <div class="navbar-header">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#toggle-navbar" aria-controls="toggle-navbar" aria-expanded="false" aria-label="Toggle navigation">
+          <i class="uil-bars text-white"></i>
+        </button>
+        <a class="navbar-brand" href="#"></a>
+      </div>
+      <div class="collapse navbar-collapse" id="toggle-navbar">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              user
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="#">Log out</a></li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <i data-show="show-side-navigation1" class="uil-bars show-side-btn"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="p-4">
+    <div class="welcome">
+      <div class="content rounded-3 p-3">
+        <h1 class="fs-3">Welcome to PHILAIMIS Dashboard</h1>
+        <p>Phil-AIMIS Dashboard was made for the improvement of the Department of Agriculture's current system of manual creation of reports of the data they collected from different agencies. 
+          The digitalization of the dashboard is created to produce analysis that can be helpful with their future planning, monitoring, evaluating, and decision making specifically for the livestock and poultry products. 
+          The improvement in their dashboard will result in much efficient use of all their gathered data.</p>
+      </div>
+    </div>
+    
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.bundle.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.jshttps://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
